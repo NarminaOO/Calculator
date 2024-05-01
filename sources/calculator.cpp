@@ -1,4 +1,4 @@
-#include "calculator.h"
+#include "headers\calculator.h"
 #include <QRegularExpression>
 #include <QDebug>
 #include <QMediaPlayer>
